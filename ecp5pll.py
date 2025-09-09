@@ -3,6 +3,7 @@ from sys import float_info
 from math import fabs
 
 """
+https://github.com/korken89/colorlight-5a-75b-ethernet/blob/main/gateware/ecp5pll.py
 ECP5 PLL generator
 
 Based on the tool ecppll in Project Trellis
